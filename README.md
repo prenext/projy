@@ -1,14 +1,10 @@
-# Projy 
+## Projy
 
-A tool to manage software development tasks.
-
-## Developer Manager
-
-Developer Manager is a powerful Flutter application designed to streamline and enhance the software development process. It leverages artificial intelligence to automatically generate project schedules, provide a user-friendly interface for task management, and facilitate integration with GitHub for issue tracking and discussions.
+Projy is a powerful Flutter application designed to streamline and enhance the software development process. It leverages artificial intelligence to automatically generate project schedules, provide a user-friendly interface for task management, and facilitate integration with GitHub for issue tracking and discussions.
 
 ### Features
 
-- **Automated Schedule Generation**: Developer Manager utilizes AI to generate comprehensive schedules based on provided project details, structure, and chosen technologies.
+- **Automated Schedule Generation**: Projy utilizes AI to generate comprehensive schedules based on provided project details, structure, and chosen technologies.
 
 - **Task Management**: The app allows users to manage tasks through a user-friendly interface, enabling them to mark tasks as done or pending.
 
@@ -28,7 +24,7 @@ Developer Manager is a powerful Flutter application designed to streamline and e
 
 ### Getting Started
 
-1. **Clone the Repository**: `git clone https://github.com/your-username/developer-manager.git`
+1. **Clone the Repository**: `git clone https://github.com/Alidante254/projy.git`
 
 2. **Install Dependencies**: Navigate to the project directory and run `flutter pub get` to install the necessary dependencies.
 
